@@ -1,0 +1,13 @@
+{
+  "name": "knockout-jqueryui",
+  "_cacheHeaders": {
+    "ETag": "\"d0b37eb2c32a633c0949cc928aebcf1d878788af\"",
+    "Content-Length": "39635",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:d0b37eb2c",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/gvas/knockout-jqueryui/master/dist/knockout-jqueryui.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/gvas/knockout-jqueryui/master/dist/knockout-jqueryui.js"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "knockout-date",
+  "_cacheHeaders": {
+    "ETag": "\"dd3a51b17a32ffb9049d0be60b5751abe2baaaaf\"",
+    "Content-Length": "4902",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:dd3a51b17",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/adrotec/knockout-date-bindings/master/knockout-date-bindings.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/adrotec/knockout-date-bindings/master/knockout-date-bindings.js"
+}

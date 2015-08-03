@@ -1,0 +1,13 @@
+{
+  "name": "koGird",
+  "_cacheHeaders": {
+    "ETag": "\"a4337943910844f52a91147cc0cf6a3c1c9080b5\"",
+    "Content-Length": "56065",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:a43379439",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/Knockout-Contrib/KoGrid/master/koGrid-2.1.1.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/Knockout-Contrib/KoGrid/master/koGrid-2.1.1.js"
+}

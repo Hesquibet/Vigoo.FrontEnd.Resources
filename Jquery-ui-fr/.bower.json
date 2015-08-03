@@ -1,0 +1,13 @@
+{
+  "name": "Jquery-ui-fr",
+  "_cacheHeaders": {
+    "ETag": "\"6b6e0b35fc76f40d900dd45fef476bd1a7df1c6c\"",
+    "Content-Length": "1289",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:6b6e0b35f",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/jquery/jquery-ui/master/ui/i18n/datepicker-fr.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/jquery/jquery-ui/master/ui/i18n/datepicker-fr.js"
+}
